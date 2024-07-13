@@ -14,5 +14,4 @@ InnovateTech is an e-commerce platform designed for technology enthusiasts. The 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/innovate-tech.git
-   cd innovate-tech
+   git clone https://github.com/aryanagarwal28/innovateTech-website/tree/main
